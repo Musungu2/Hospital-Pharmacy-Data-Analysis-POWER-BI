@@ -12,3 +12,10 @@ The hospital management of a county referral hospital in kenya wants to understa
 4. Are there age groups that consume more medication than others?		
 5. Are some diagnoses associated with longer hospital stays but lower pharmacy spending?
 
+## Insights
+1. The total pharmacy revenue was Ksh 275k
+2. The most common disease is flu with Uasin Gishu and Nakuru Counties being the most affected
+3. The inpatients generated the most revenue, from uasingishu county
+4. Seniors consume more drug at 371 of the total 1008
+5. 
+

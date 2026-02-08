@@ -1,4 +1,5 @@
 # Hospital Pharmacy Data Analysis Using Power BI
+![Power BI Dashboard](Dashboard..png)
 ## Project Objective
 The hospital management of a county referral hospital in kenya wants to understand patient visits, disease patterns, and pharmacy performance in order to improve resource allocation and decision-making.
 
